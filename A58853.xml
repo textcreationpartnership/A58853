@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chief Justice Scroggs his speech in the King-Bench, the first day of this present Michaelmas term 1679 occasioned by the many libellous pamphlets which are publisht against law, to the scandal of the government and publick justice : together with what was declared at the same time on the same occasion, in open court, by Mr. Justice Jones, and Mr. Justice Dolbin.</title>
+            <author>Scroggs, William, Sir, 1623?-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58853</idno>
+            <idno type="STC">Wing S2122</idno>
+            <idno type="STC">ESTC R32132</idno>
+            <idno type="EEBO-CITATION">12328746</idno>
+            <idno type="OCLC">ocm 12328746</idno>
+            <idno type="VID">59603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59603)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1027:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chief Justice Scroggs his speech in the King-Bench, the first day of this present Michaelmas term 1679 occasioned by the many libellous pamphlets which are publisht against law, to the scandal of the government and publick justice : together with what was declared at the same time on the same occasion, in open court, by Mr. Justice Jones, and Mr. Justice Dolbin.</title>
+                  <author>Scroggs, William, Sir, 1623?-1683.</author>
+               </titleStmt>
+               <extent>[3], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Pawlet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of King's Bench.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:59603:1"/>
+            <!-- PDF PAGE 101 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 23. 1679.</date>
+               </dateline>
+            </opener>
+            <p>I Do Appoint <hi>Robert Pawlet</hi> to Print this my Speech: And that no other Perſon preſume to Re-Print the ſame.</p>
+            <closer>
+               <signed>WILLIAM SCROGGS.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:59603:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <p>THE Lord Chief Juſtice SCROGGS HIS SPEECH IN THE KINGS-BENCH The firſt day of this preſent <hi>Michaelmas Term</hi> 1679.</p>
+            <p>Occaſion'd by the many Libellous Pamphlets which are publiſht againſt Law, to the Scandal of the Government, and Publick Juſtice.</p>
+            <p>TOGETHER With what was Declared at the ſame Time on the ſame Occaſion, in open Court, by Mr. Juſtice <hi>JONES,</hi> and Mr. Juſtice <hi>DOLBIN.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Pawlet</hi> at the <hi>Bible</hi> in <hi>Chancery-Lane.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59603:2"/>
+            <!-- PDF PAGE 102 -->
+            <pb n="1" facs="tcp:59603:2"/>
+            <!-- PDF PAGE 102 -->
+            <head>THE Lord Chief Juſtice SCROGGS HIS SPEECH In the KINGS-BENCH, The Firſt day of this Preſent <hi>Michaelmas</hi> — Term, 1679. Occaſioned, by the many Libellous Pamphlets That are Publiſhed againſt Law, To the Scandal of the Government and Publick Juſtice. WITH What Mr. Juſtice <hi>Jones,</hi> and Mr. Juſtice <hi>Dolbin,</hi> then declared about the ſame.</head>
+            <p>I Have bound over this Man <hi>Richard Radley</hi> to his good Behaviour, and to appear here this day, for ſaying falſe and Scandalous words of me, which are Sworn to by two ſeveral Affidavits, <hi>viz.</hi>
+            </p>
+            <pb n="2" facs="tcp:59603:3"/>
+            <!-- PDF PAGE 103 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="affidavit">
+                        <p>William Lewis <hi>maketh Oath, That on the ſeventh day of</hi> Auguſt 1679, <hi>there being a Difference be<g ref="char:EOLhyphen"/>tween</hi> Robert Raylett <hi>and</hi> Richard Radley, <hi>he heard the ſaid</hi> Richard Radley <hi>ſay to him the ſaid</hi> Raylett, <hi>If you think to have the Money you have overthrown me in, go to</hi> Weale-hall <hi>to my Lord</hi> Scroggs, <hi>for he has received Money enough of Dr.</hi> Wakeman, <hi>for his Acquittal.</hi>
+                        </p>
+                        <closer>
+                           <signed>William Lewis.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Jurat. <date>4<hi rend="sup">o</hi> die Septembris, 1679.</date> coram me</p>
+                           <closer>
+                              <signed>Will. Scroggs.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="affidavit">
+                        <p>Robert Raylett <hi>maketh Oath, That there was a Tryal at the laſt</hi> Eſſex-<hi>Aſsizes between him and one</hi> Richard Radley, <hi>where he recovered Thirty eight pounds; and he happening to be at work on the ſeventh day of</hi> Auguſt 1679, <hi>over againſt the houſe of the ſaid</hi> Richard Radley, <hi>the ſaid</hi> Richard Radley <hi>told him, If you expect the Money you have overthrown me in, you may go to</hi> Weale-hall, <hi>for there is Money enough come in now.</hi>
+                        </p>
+                        <closer>
+                           <signed>Robert Raylett.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Jurat. <date>4<hi rend="sup">o</hi> die Septembris, Anno 1679,</date> coram me</p>
+                           <closer>
+                              <signed>Will. Scroggs.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Firſt, I would have all Men know, that I am not ſo re<g ref="char:EOLhyphen"/>vengeful in my Nature, nor ſo netled with this Aſperſion, but that I could have paſſed by this and more, but that the many ſcandalous Libels that are abroad, and which reflect upon pub<g ref="char:EOLhyphen"/>lick Juſtice, as well as upon my private ſelf, make it the Du<g ref="char:EOLhyphen"/>ty of my place to defend one, and the Duty I owe to my Reputation to vindicate the other.</p>
+            <pb n="3" facs="tcp:59603:3"/>
+            <!-- PDF PAGE 103 -->
+            <p>And having this opportunity, I think this the propereſt place for both. If once our Courts of Juſtice come to be awed or ſwayed by vulgar noiſe; and if Judges and Juries ſhould manage themſelves ſo, as would beſt comply with the humour of times; 'tis falſely ſaid, That Men are Tryed for their Lives or Fortunes, they live by chance, and enjoy what they have as the wind blows, and with the ſame certainty: The giddy Multitude have conſtancy, who Condemn or Ac<g ref="char:EOLhyphen"/>quit always before the Tryal, and without proof.</p>
+            <p>Such a baſe fearful Complyance, made <hi>Felix</hi> willing to pleaſe the people, leave <hi>Paul</hi> bound, who was apt to tremble, but not to follow his Conſcience. The people ought to be pleaſed with publick Juſtice, and not Juſtice ſeek to pleaſe the people; Juſtice ſhould flow like a mighty ſtream, and if the Rabble, like an unruly wind blow againſt it, it may make it rough, but the ſtream will keep its Courſe.</p>
+            <p>Neither for my part, do I think we live in ſo corrupted an Age, that no man can with ſafety be juſt and follow his Con<g ref="char:EOLhyphen"/>ſcience: if it be otherwiſe, we muſt hazard our Safety, to preſerve our Integrity.</p>
+            <p>And to ſpeak more particularly as to Sir <hi>George Wakeman</hi>'s Tryal, which I am neither afraid, nor aſhamed to mention, I know that all honeſt and underſtanding Men in the King<g ref="char:EOLhyphen"/>dome (ſpeaking generally) are throughly ſatisfied with the impartial Proceedings of that Trial, taking it as it is Printed; which was done without the peruſal of one Line by me, or any Friend of mine. Though by the way, I wonder by what Authority that Arbitrary Power was aſſumed, to forbid any Friend of mine the ſeeing of it, before it was put out.</p>
+            <p>However, as it is, I will appeal to all Sober and Under<g ref="char:EOLhyphen"/>ſtanding Men, and to the Long Robe more eſpecially, who are the beſt and propereſt Judges in ſuch Caſes, as to the Fairneſs and Equality of that Trial.</p>
+            <p>For thoſe hireling Scriblers that traduce it, who write to
+<pb n="4" facs="tcp:59603:4"/>
+               <!-- PDF PAGE 104 -->Eat, and Lye for Bread, I intend to meet with them another way, for they are onely ſafe whilſt they can be ſecret; but ſo are Vermine, ſo long onely as they can hide themſelves.</p>
+            <p>And let their Broakers, thoſe Printers and Bookſellers by whom they vend their falſe and braded Ware, look to it; ſome will be found, and they ſhall know, that the Law wants not power to puniſh a Libellous and Licentious Preſs, nor I a Re<g ref="char:EOLhyphen"/>ſolution to execute it.</p>
+            <p>And this is all the Anſwer is fit to be given (beſides a Whip) to thoſe Hackney Writers, and dull Obſervators, that go as they are hired or ſpurred, and perform as they are fed, who never were taught.</p>
+            <p>If there be any ſober and good Men that are miſ-led by falſe Reports, or by ſubtilty deceived into any miſapprehen<g ref="char:EOLhyphen"/>ſions concerning that Tryal, or my ſelf; I ſhould account it the higheſt pride, and the moſt ſcornful thing in the World, if I ſhould not endeavour to undeceive them.</p>
+            <p>To ſuch Men therefore I do ſolemnly declare here in the Seat of Juſtice, where I would no more Lye or Equivocate, than I would to God at the Holy Altar,</p>
+            <p>I followed my Conſcience, according to the beſt of my Underſtanding, in all that Trial; without Fear, Favour, or Reward, without the Gift of one Shilling, or the value of it directly or indirectly, and without any promiſe or expecta<g ref="char:EOLhyphen"/>tion whatſoever.</p>
+            <p>This I ſay to honeſt men (that know me not) if any that do know me needed this, they ſhould not have had it, for they uſe me Ill; he that knows me and doubts, ſo long thinks it an even wager, whether I am the greateſt Villain in the World or not, one that would ſell the Life of the King, my Religion, and Countrey, to Papiſts for Money: And he that ſays great Places have great Temptations, has a little, if not a falſe Heart himſelf, for no Temptation is big enough for a ſin of this Magnitude.</p>
+            <pb n="5" facs="tcp:59603:4"/>
+            <!-- PDF PAGE 104 -->
+            <p>I would not have the Papiſts now make any falſe Concluſions from what I ſay, that becauſe I reprove the inſolence of ſome mens Tongues and Pens, concerning this Tryal, they ſhould thence infer they have not had or (at leaſt) cannot expect fair play, becauſe ſome fooliſh men cry out of their acquittal, and think there is no Juſtice, where there is no Execution.</p>
+            <p>They have had fair Tryals, and ſome that have ſuffered have had the ingenuity to confeſs it, and they ſhall ſtill be tryed ac<g ref="char:EOLhyphen"/>cording to the Evidence, and the probability and credibility it carries with it.</p>
+            <p>But this I muſt ſay, he that thinks there is no Plot, is blind with prejudice or wilfully ſhuts his Eyes.</p>
+            <p>The Prieſts and Jeſuits had a deſign to root out the Proteſtant Religion, and bring in Popery, and that is directly to over<g ref="char:EOLhyphen"/>throw the Government; and to effect this, that they would kill the King (were there no more) their Doctrine and Practiſes go very far to prove it, and he that ſayes the contrary is as much out, as where in a printed Pamphlet he too confidently aſſerts, that in all their Papers that were ſearched, there was not one ill Letter found, or any thing that was ſuſpitious: <hi>Colemans</hi> Let<g ref="char:EOLhyphen"/>ters and the Letter found amongſt <hi>Harcourts</hi> Papers will never be anſwered; not by ſaying that a meeting ſo exactly appointed, with all cautions imaginable, as not to appear too much about the Town for fear of diſcovering the deſign, which in its own Nature requires ſecreſie, that this was only a meeting to chooſe an Officer.</p>
+            <p>And yet to affirm that this is not ſo much as ſuſpitious at leaſt, is a confidence, that the Ingenuity of a Jeſuit only will undertake to own.</p>
+            <p>However in the mean time the extravagant boldneſs of mens Pens and Tongues is not to be endured, but ſhall be ſeverely puniſhed. For if once Cauſes come to be tryed with Compla<g ref="char:EOLhyphen"/>cency to popular opinions, and ſhall be inſolently cenſured if they go otherwiſe, all publick Cauſes ſhall receive their Doom as the multitude happen to be poſſeſt, and at length every Cauſe ſhall become publick, if they will but eſpouſe it, at every Seſſions the Judges ſhall be arraigned, the Jury condemned, and Verdicts overawed to comply with popular noiſe and unde<g ref="char:EOLhyphen"/>cent ſhouts.</p>
+            <pb n="6" facs="tcp:59603:5"/>
+            <!-- PDF PAGE 105 -->
+            <p>There are a ſort of men, <hi>I</hi> doubt, that too much approve and countenance ſuch Vulgar wayes, and count it Art and Strata<g ref="char:EOLhyphen"/>gem<g ref="char:punc">▪</g> that embrace all ſorts of Informations true or falſe, like<g ref="char:EOLhyphen"/>ly or impoſſible, nay though never ſo ſilly and ridiculous they refuſe one, ſo ſhall all Addreſſes be made to them, and they be look'd on as the only Patrons of Religion and Govern<g ref="char:EOLhyphen"/>ment<g ref="char:punc">▪</g> though they ſhould have but little of the one, and would maintain the other only ſo far as their own ſhare in it comes to.</p>
+            <p>Theſe Sir Politicks (if ſuch there are) deceive themſelves as much as they do others, and are not what they imagine themſelves to be with underſtanding and honeſt men, no not with thoſe they think they gull neither, for they uſe them to ſerve their purpoſes, as they think they ſerve others: and if ever time ſhall ſerve, 'twill prove ſo.</p>
+            <p>Let us purſue the diſcovery of the Plot a Gods Name, and not baulk any thing where there is danger or Suſpition upon reaſonable grounds, but not ſo overdo it as to ſhew our Zeal, we will pretend to find what is not, nor ſtretch one thing beyond what it will bear to reach another, nor count him a Turn-coat, and not to be truſted that will not betray his Conſcience and underſtanding, that will not countenance unreaſonable boldneſs, nor believe incredible things. Leaſt we fall into what we juſtly condemn in the Papiſts, cruelty and vain credulity, ſuch courſes cannot be the reſult) of honeſt Intentions, but ſhrewdly to be Suſ<g ref="char:EOLhyphen"/>pected rather a Diſguiſe in purſuing one Villany to commit another.</p>
+            <p>For my own part without any other meaning or re<g ref="char:EOLhyphen"/>ſervation whatſoever, I freely and heartily declare, I will never be a Papiſt nor a Rebel, but will to my power ſup<g ref="char:EOLhyphen"/>preſs Popery as an open Enemy, and Faction as a ſecret one.</p>
+            <p>No Act of Oblivion ought to make us to forget by what wayes our late troubles began, when the Apprentices and Porters mutined for Juſtice in their own ſenſe. And though I am morally certain, that no ſuch effect will follow as did then, yet the like inſolence ought not to be ſuffered for the ex<g ref="char:EOLhyphen"/>ample paſt, and to come.</p>
+            <pb n="7" facs="tcp:59603:5"/>
+            <!-- PDF PAGE 105 -->
+            <p>The City of <hi>London,</hi> I mean; the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men, and generally all men of value and worth there, I think in my Conſcience are at this Day as Loyally and Re<g ref="char:EOLhyphen"/>ligiouſly diſpoſed to defend the King, and the Government, and maintain the true Proteſtant Religion to their utmoſt, as any former Age whatſoever can ſhew, and I know the King thinks ſo too, and is therefore really and heartily as kind to them.</p>
+            <p>And therefore though our Jealouſies may be many, our fears need not be ſo: For whoſoever they are that deſign diſturbances and publick Diſſentions for private Ends, will find they are rather troubleſome than dangerous, and the greateſt miſchief they will be able to effect will be up<g ref="char:EOLhyphen"/>on themſelves.</p>
+            <p>In ſhort it is the proper buſineſs of this Court, and our Du<g ref="char:EOLhyphen"/>ties that ſit Judges here, to take care to prevent and puniſh the miſchiefs of the Preſs.</p>
+            <p>For if men can with any ſafety Write and Print whatever they pleaſe, the Papiſts will be ſure to put in for their ſhare too, ſo that what between them, and the Factious, and the Mercenaries that Write for him that hires, and for what they are hired, we ſhall be infected with the French Diſeaſe in Government, and be overrun with Lies and Libels, which agrees neither with Engliſh mens honeſty nor Courage, who were wont, to ſcorn to ſay what they durſt not own.</p>
+            <sp>
+               <speaker>Mr. Juſtice Jones.</speaker>
+               <p>We have a particular Caſe here before us in a matter of Scandal againſt a great Judge, the greateſt Judge in the King<g ref="char:EOLhyphen"/>dome in Criminal Cauſes, and it is a great and an high Charge upon him. And certainly there was never any Age I think more Licentious than this in aſperſing Governors, ſcat<g ref="char:EOLhyphen"/>tering of Libels and Scandalous Speeches againſt thoſe that are in Authority. And without all doubt it doth become this Court to ſhew their Zeal in ſuppreſſing it.</p>
+               <p>I am old enough to remember (and perhaps feel the ſmart of it yet) the beginning of the late Rebellion, for a Rebellion it was and deſerves no other name). I know it had the forerun<g ref="char:EOLhyphen"/>ner
+<pb n="8" facs="tcp:59603:6"/>
+                  <!-- PDF PAGE 106 -->of ſuch Libels and Scandals againſt the Government as this is, and it followed almoſt to the ſubverſion of the happineſs of the Kingdome. As for the Tryal hinted at in this Affidavit <hi>I</hi> was not preſent at it my ſelf, I was detained by my uſual infir<g ref="char:EOLhyphen"/>mity, ſo that I could not attend that Service, nor indeed have <hi>I</hi> read the Relation of it in Print, ſo conſiderately as to give a Judgement upon it. But I am very Confident (upon my know<g ref="char:EOLhyphen"/>ledge of the Integrity of my Lord, and the reſt of my Lords the Judges that were there) for there were all the Chief Judges and almoſt all my Brothers) that that Tryal was managed with exact Juſtice and perfect Integrity by them.</p>
+               <p>And therefore I do think it very fit that this Perſon be pro<g ref="char:EOLhyphen"/>ceeded againſt by an Information, that he may be made a publick Example to all ſuch as ſhall preſume to Scandalize the Govern<g ref="char:EOLhyphen"/>ment and the Governours with any falſe aſperſions or accuſa<g ref="char:EOLhyphen"/>tions,</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Juſtice Dolbin.</speaker>
+               <p>I am of that mind truely, and am very glad we have Lit upon one of the Divulgers of theſe Scandals. I was preſent at that Tryal, and for my part, I think the Scan<g ref="char:EOLhyphen"/>dal to my <hi>Lord Chief Juſtice</hi> was a Scandal to us all that were there, for if he had misbehaved himſelf in ſuch a manner as ſome have reported, we had been ſtrange People to ſit ſtill and ſay nothing or not interpoſe to rectifie wherein be did amiſs. And therefore <hi>I</hi> deſire this man may be proceeded againſt for an Example to others.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THere is now in the Preſs, the Tryal, Convicti<g ref="char:EOLhyphen"/>on and Condemnation of <hi>William Atkins</hi> and <hi>Andrew Bromige,</hi> two Romiſh Prieſts, before the Right Honourable the <hi>Lord Chief Juſtice Scroggs,</hi> at <hi>Stafford</hi> Aſſizes laſt.</p>
+            <p>Together with the tryal of <hi>Charles Kern</hi> a Bomiſh Prieſt at <hi>Hereford</hi> Aſſizes laſt.</p>
+            <p>
+               <hi>Printed alſo for</hi> Robert Pawlet <hi>at the</hi> Bible <hi>in</hi> Chancery Lane,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
